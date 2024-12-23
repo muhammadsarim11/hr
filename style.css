@@ -110,7 +110,7 @@ p{
  font-weight: 700;
     margin-bottom: .4rem;
     color: transparent;
-    background: linear-gradient(to right, white,rgba(229, 227, 225, 0.817));
+    background: linear-gradient(to right, white, black);
     -webkit-background-clip: text;
 }
 .profile-profession{
